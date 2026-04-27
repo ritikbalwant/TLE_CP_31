@@ -5,6 +5,12 @@ int main(){
     int n;
     cin >> n;
 
-    cout << "Hey " << n;
+    int m;
+    cin >> m;
+
+    cout << "Hey " << n << '\n';
+
+    cout << "Hey " << m << '\n';
     return 0;
 }
+
